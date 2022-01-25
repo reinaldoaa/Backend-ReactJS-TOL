@@ -21,7 +21,7 @@ return (
                                     <img src={img1} alt=""/>
                               </a>
                               <TextoSlide>
-                                    <p>15% descuento en productos Apple</p>
+                                    <p>15% descuento en productos Slide1</p>
                               </TextoSlide>
                         </Slide>
                         <Slide>
@@ -29,7 +29,7 @@ return (
                                     <img src={img2} alt=""/>
                               </a>
                               <TextoSlide>
-                                    <p>15% descuento en productos Apple</p>
+                                    <p>15% descuento en productos Slide</p>
                               </TextoSlide>
                         </Slide>
                         <Slide>
@@ -37,7 +37,7 @@ return (
                                     <img src={img3} alt=""/>
                               </a>
                               <TextoSlide>
-                                    <p>15% descuento en productos Apple</p>
+                                    <p>15% descuento en productos Slide3</p>
                               </TextoSlide>
                         </Slide>
                   </Slidershow>            
